@@ -1,27 +1,12 @@
-# Core dependencies
 numpy
-scipy
 opencv-python-headless
-soundfile
-matplotlib
-watchdog
-
-# Torch + MiDaS depth estimation
 torch
 torchvision
-
-# Real-ESRGAN (optional for upscaling)
 realesrgan
-
-# Streamlit & related UI
+soundfile
 streamlit
 rich
-
-# Spatial media metadata injection
 spatialmedia
-
-# FFmpeg wrapper (optional, just in case)
-imageio-ffmpeg
-
-# Any other utilities
+watchdog
 tqdm
+imageio-ffmpeg
