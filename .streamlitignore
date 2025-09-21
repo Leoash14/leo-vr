@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore temp work directories
+tmp_vr180_work_*
+
+# Ignore outputs
+outputs/
+*.mp4
+*.wav
+*.png
+*.jpg
+
+# Ignore system files
+.DS_Store
