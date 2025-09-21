@@ -1,0 +1,6 @@
+streamlit
+numpy
+opencv-python
+scipy
+soundfile
+spatialmedia
